@@ -1,7 +1,3 @@
-# 💫 About Me:
-I am a Computer Science professional with a Master's in Information Technology and a background in software engineering, AI, and full-stack web development. My experience includes working as a Support Engineer and React Developer, where I developed modern web applications and AI-powered solutions using technologies such as React, Next.js, TypeScript, Python, FastAPI, and LangChain. I have also conducted machine learning research in predictive analytics and am passionate about building intelligent, user-focused software. My long-term goal is to contribute to advancements in Artificial Intelligence through innovative product development and research.
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamaayushydv@gmail.com) 
 
